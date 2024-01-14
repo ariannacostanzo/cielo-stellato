@@ -1,0 +1,2 @@
+Realizzare un cielo stellato. Ogni stella avrà una classe  di una stella.
+Ogni stella sarà in position absolute ed avrà un numero random per le coordinate left, top, bottom, e right. Le coordinate avranno nel css una variabile che cambierò nel javacript con i numeri random, ogni stella inoltre avrà una width variabile che cambierò sempre tramite javascript. Posso provare a fare apparire tutte le stelle subito oppure piano piano una ad una. Le stelle non possono avere tutte e 4 le coordinate ma solo a gruppi di due. 
